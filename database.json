@@ -40,5 +40,12 @@
 		"days": "40",
 		"v": 93,
 		"state": true
+	},
+	"Pool Lopez": {
+		"users": ["zfkxpbW9uY2l0bw==0","zfkZyb3p6ZW4=0"],
+		"date": "2016/05/16",
+		"days": "0",
+		"v": 93,
+		"state": true
 	}
 }
