@@ -3,49 +3,49 @@
 		"users": ["zdGVzdGluZzA=0","zVmVyZ2Fub20=0","zdGVzdGluZzAw0","zdGVzdGluZzEx0"],
 		"date": "2016/01/27",
 		"days": "0",
-		"v": 32,
+		"v": 1,
 		"state": true
 	},
     "RX": {
 		"users": ["zSkJTVFVESU9T0","zcnhtYXN0ZXJib3Q=0"],
 		"date": "2016/10/03",
 		"days": "0",
-		"v": 93,
+		"v": 1,
 		"state": true
 	},
 	"": {
 		"users": [],
 		"date": "2016/05/16",
 		"days": "0",
-		"v": 61,
+		"v": 1,
 		"state": true
 	},
 	"Nathaly": {
 		"users": ["zM0wgQjRUVVQzUjAq0","zTmF0YWx5IE1heW9yYQ==0","zYWxhbiByb21hbg==0"],
 		"date": "2016/05/16",
 		"days": "0",
-		"v": 93,
+		"v": 1,
 		"state": true
 	},
 	"Wilson Z M": {
 				"users": ["zN0JsYWRlU2tpbGw=0","zelByZXp1bWlkYSE=0","zelByaW5jZUJvNyE=0","zaUZvcm11bGVybzYw0"],
 				"date": "2016/10/03",
 				"days": "0",
-				"v": 93,
+				"v": 1,
 				"state": true
 	},
 	"Jhonathan": {
 		"users": ["zTGlhbSBQYXJlZGVz0"],
 		"date": "2016/10/03",
 		"days": "40",
-		"v": 93,
+		"v": 1,
 		"state": true
 	},
 	"Pool Lopez": {
 		"users": ["zfkxpbW9uY2l0bw==0","zfkZyb3p6ZW4=0"],
 		"date": "2016/05/16",
 		"days": "0",
-		"v": 93,
+		"v": 1,
 		"state": true
 	}
 }
