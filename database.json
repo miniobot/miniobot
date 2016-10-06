@@ -29,16 +29,16 @@
 	},
 	"Wilson Z M": {
 				"users": ["zN0JsYWRlU2tpbGw=0","zelByZXp1bWlkYSE=0","zelByaW5jZUJvNyE=0","zaUZvcm11bGVybzYw0"],
-				"date": "2016/10/03",
-				"days": "0",
-				"v": 1,
+				"date": "2016/08/10",
+				"days": "120",
+				"v": 0,
 				"state": true
 	},
-	"Jhonathan": {
+	"Jhonathan Pa": {
 		"users": ["zTGlhbSBQYXJlZGVz0"],
-		"date": "2016/10/03",
-		"days": "40",
-		"v": 1,
+		"date": "2016/09/07",
+		"days": "90",
+		"v": 0,
 		"state": true
 	},
 	"Pool Lopez": {
@@ -46,6 +46,13 @@
 		"date": "2016/05/16",
 		"days": "0",
 		"v": 1,
+		"state": true
+	},
+	"jhonathan": {
+		"users": ["zMlBSQVlT0","zRGFuZ2VyLUFM0","zU1VJY2lkYQ==0"],
+		"date": "2016/09/29",
+		"days": "30",
+		"v": 0,
 		"state": true
 	}
 }
