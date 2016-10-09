@@ -61,12 +61,5 @@
 		"days": "30",
 		"v": 0,
 		"state": true
-	},
-	"TEST": {
-		"users": ["zU2FnaXRhcmlveA==0","zejdQc2ljb3Npcw==0","zejdEYW5nZXI=0","zZmVub21lbmFseA==0"],
-		"date": "2016/09/09",
-		"days": "30",
-		"v": 0,
-		"state": true
 	}
 }
