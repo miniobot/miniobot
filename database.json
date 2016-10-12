@@ -82,5 +82,12 @@
 		"days": "0",
 		"v": 1,
 		"state": true
+	},
+	"Ezequiel Chavez": {
+		"users": ["zQmlsbHogRA==0","zQmlsbHot0"],
+		"date": "2016/10/12",
+		"days": "26",
+		"v": 0,
+		"state": true
 	}
 }
