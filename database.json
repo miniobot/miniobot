@@ -96,5 +96,12 @@
 		"days": "0",
 		"v": 1,
 		"state": true
+	},
+	"Reynaldo Reynaldo": {
+		"users": ["zekthcmQ=0","zaU5lZWRlZA==0"],
+		"date": "2016/10/15",
+		"days": "30",
+		"v": 0,
+		"state": true
 	}
 }
